@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">wh-tech</string>
+    <string name="left"><![CDATA[<]]></string>
+    <string name="right"><![CDATA[>]]></string>
+    <string name="addNomenclature">Добавити номенклатуру</string>
+    <string name="addAcceptanceOfGoods">Зробити прийомку товару</string>
+    <string name="addMake_A_Move">Зробити переміщенні</string>
+    <string name="addMakeSales">Зробити продажу</string>
+    <string name="in">ВХІД</string>
+    <string name="exit">ВИХІД</string>
+    <string name="user">Користувач</string>
+    <string name="pass">Пароль</string>
+    <string name="artikul">Артикул (постачальника)</string>
+    <string name="artikul2">Артикул</string>
+    <string name="save_in_DB">Зберегти</string>
+    <string name="name">Найменування</string>
+</resources>
